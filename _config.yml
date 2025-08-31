@@ -3,14 +3,12 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Basic Site Settings
 # Site Settings
-title                    : "Shuo CAI's Home Page"
-description              : "Master of Philosophy in the Hong Kong Polytechnic University"
-repository               : "Baicaihaochi/shuocai003.github.io"
+title                    : "Lorem ipsum"
+description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -20,61 +18,46 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-url                      : https://shuocai003.github.io
 
+# Site Author
 author:
-  # Biographic information
-  avatar           : "ShuoCai_Photo.png"
-  name             : "Shuo CAI"
-  bio              : "Hong Kong Polytechnic University"
-  location         : "Hong Kong"
-  email            : "shuo1031.cai@connect.polyu.hk" 
-
-  # Academic websites
-  academia         : 
-  arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=VRlUiqQAAAAJ"
-  inspire-hep      : 
-  impactstory      : 
-  orcid            : 
-  semantic         : 
+  name             : "Lorem ipsum"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Lorem ipsum College"
+  location         : "Beijing, China"
+  employer         :
   pubmed           : 
-  researchgate     : 
-  scopus           : 
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "Lorem@ipsum.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : # e.g., "github username"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : Baicaihaochi
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  artstation       : # Username
-  bluesky          : #
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Reading Files
 include:
