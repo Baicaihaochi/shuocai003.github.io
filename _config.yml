@@ -7,24 +7,26 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://shuocai003.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# Site Settings
+title                    : "Shuo CAI's Home Page"
+description              : "Master of Philosophy in the Hong Kong Polytechnic University"
+repository               : "Baicaihaochi/shuocai003.github.io"
+google_scholar_stats_use_cdn : true
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+url                      : https://shuocai003.github.io
+
 author:
   # Biographic information
   avatar           : "ShuoCai_Photo.png"
   name             : "Shuo CAI（蔡硕）"
-  bio              : "Less Interests, More Interest"
+  bio              : "Hong Kong Polytechnic University"
   location         : "Hong Kong"
   email            : "shuo1031.cai@connect.polyu.hk" 
 
