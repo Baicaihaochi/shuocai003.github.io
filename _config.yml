@@ -25,22 +25,22 @@ url                      : https://shuocai003.github.io
 author:
   # Biographic information
   avatar           : "ShuoCai_Photo.png"
-  name             : "Shuo CAI（蔡硕）"
+  name             : "Shuo CAI"
   bio              : "Hong Kong Polytechnic University"
   location         : "Hong Kong"
   email            : "shuo1031.cai@connect.polyu.hk" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : 
+  arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=VRlUiqQAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : #
-  semantic         : # URL
-  pubmed           : #
-  researchgate     : # URL
-  scopus           : # URL
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  pubmed           : 
+  researchgate     : 
+  scopus           : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -123,12 +123,6 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 
 # Social Sharing
